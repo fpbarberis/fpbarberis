@@ -3,6 +3,9 @@
 ## I studied civil engineering but changed my career to work as a programmer.
 ## I currently work as a data analyst, collaborating on data analysis projects and backend development with python.
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faviobarberiskettler/)
+
+
 ### Some of my languages and tools knowledge:
 
 <p>
