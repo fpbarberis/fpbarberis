@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Favio.
 
 ## I studied civil engineering but changed my career to work as a programmer.
-## I currently work as a data analyst, collaborating on data analysis projects and backend development with python.
+## I’m currently working as a data analyst, contributing to data analysis projects and backend development using Python.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faviobarberiskettler/)
 
